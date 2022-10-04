@@ -1,4 +1,5 @@
-# README
+# Ruby on rails Tutorial
+## "hello, world!"
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
